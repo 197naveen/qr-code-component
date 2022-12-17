@@ -1,4 +1,4 @@
-#Hi Everyone
+# Hi Everyone
 I have practising front-end development projects in frontendmentor.io and this repo consists of QR code component projects
 
 WorkFlow:
